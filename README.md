@@ -7,4 +7,8 @@ The project was built with IntelliJ IDEA 2018.2.4 x64 JAVA11.
 
 Check for src directory for the java files, and files directory for train, test and output files.
 
+main function in NewsClassifier.java
 
+## Authors
+
+* **Avi Strelchin** 
